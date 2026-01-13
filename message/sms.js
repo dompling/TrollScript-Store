@@ -4,7 +4,7 @@
  description: 提取快递短信取件码
  icon: terminal
  category: 工具
- version: 1.0.0
+ version: 1.0.1
  */
 
 function main() {
@@ -89,6 +89,7 @@ function main() {
 
             // 更新缓存
             processedCodes.push(uniqueKey);
+            storage.set(STORAGE_KEY, processedCodes);
             hasNew = true;
             processedCount++;
         }
