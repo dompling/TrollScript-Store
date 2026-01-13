@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-01-13T03:54:01.512Z",
+  "categories": [
+    "工具"
+  ],
+  "authors": [
+    {
+      "name": "dompling",
+      "avatar": "https://avatars.githubusercontent.com/u/23498579?v=4",
+      "scripts": [
+        {
+          "id": "ExpressSMS",
+          "name": "ExpressSMS",
+          "description": "提取快递短信取件码",
+          "icon": "terminal",
+          "category": "工具",
+          "version": "1.0.0",
+          "downloadUrl": "https://raw.githubusercontent.com/dompling/TrollScript-Store/main/message/sms.js",
+          "size": 133,
+          "downloads": 0,
+          "createdAt": "2026-01-13T03:42:54.346Z",
+          "updatedAt": "2026-01-13T03:54:01.510Z"
+        }
+      ]
+    }
+  ]
+}

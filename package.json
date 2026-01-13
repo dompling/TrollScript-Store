@@ -1,0 +1,15 @@
+{
+  "name": "trollscript-store",
+  "version": "1.0.0",
+  "main": "",
+  "author": "dompling",
+  "license": "ISC",
+  "description": "巨魔脚本",
+  "scripts": {
+    "build": "node scripts/build-store.js",
+    "prebuild": "echo '🔮 开始构建 store.json...'"
+  },
+  "dependencies": {
+    "@dompling/trollscript-types": "^1.0.24"
+  }
+}
