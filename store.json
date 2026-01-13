@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-01-13T03:54:01.512Z",
+  "lastUpdated": "2026-01-13T05:09:27.694Z",
   "categories": [
     "工具"
   ],
@@ -17,10 +17,10 @@
           "category": "工具",
           "version": "1.0.0",
           "downloadUrl": "https://raw.githubusercontent.com/dompling/TrollScript-Store/main/message/sms.js",
-          "size": 133,
+          "size": 3110,
           "downloads": 0,
           "createdAt": "2026-01-13T03:42:54.346Z",
-          "updatedAt": "2026-01-13T03:54:01.510Z"
+          "updatedAt": "2026-01-13T05:09:27.692Z"
         }
       ]
     }
