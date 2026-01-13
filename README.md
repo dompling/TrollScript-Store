@@ -14,7 +14,7 @@
 <!-- SCRIPTS_START -->
 | 脚本 | 描述 | 版本 | 文档 |
 |------|------|------|------|
-| **ExpressSMS** | 提取快递短信取件码 | `1.0.0` | [📖](./message/README.md) |
+| **ExpressSMS** | 提取快递短信取件码 | `1.0.1` | [📖](./message/README.md) |
 <!-- SCRIPTS_END -->
 
 ## 📦 项目结构
