@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-01-13T08:29:45.502Z",
+  "lastUpdated": "2026-02-04T09:11:18.463Z",
   "categories": [
     "工具"
   ],
@@ -15,12 +15,12 @@
           "description": "提取快递短信取件码",
           "icon": "terminal",
           "category": "工具",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "downloadUrl": "https://raw.githubusercontent.com/dompling/TrollScript-Store/main/message/sms.js",
-          "size": 3164,
+          "size": 3060,
           "downloads": 0,
           "createdAt": "2026-01-13T03:42:54.346Z",
-          "updatedAt": "2026-01-13T08:29:45.501Z"
+          "updatedAt": "2026-02-04T09:11:18.461Z"
         }
       ]
     }
