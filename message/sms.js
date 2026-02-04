@@ -4,15 +4,10 @@
  description: 提取快递短信取件码
  icon: terminal
  category: 工具
- version: 1.0.1
+ version: 1.0.2
  */
 
 function main() {
-    if (!sms.checkAccess()) {
-        console.error("没有短信访问权限");
-        return;
-    }
-
     const messages = sms.read(20);
     if (!messages || messages.length === 0) {
         console.log("未读取到短信");
