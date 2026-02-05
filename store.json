@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-02-04T14:15:20.412Z",
+  "lastUpdated": "2026-02-05T01:56:49.043Z",
   "categories": [
     "工具"
   ],
@@ -20,7 +20,20 @@
           "size": 3060,
           "downloads": 0,
           "createdAt": "2026-01-13T03:42:54.346Z",
-          "updatedAt": "2026-02-04T14:15:20.410Z"
+          "updatedAt": "2026-02-05T01:56:49.041Z"
+        },
+        {
+          "id": "PerformanceMonitor",
+          "name": "PerformanceMonitor",
+          "description": "实时性能监控 HUD",
+          "icon": "terminal",
+          "category": "工具",
+          "version": "1.0.0",
+          "downloadUrl": "https://raw.githubusercontent.com/dompling/TrollScript-Store/main/scripts/PerformanceMonitor.js",
+          "size": 12555,
+          "downloads": 0,
+          "createdAt": "2026-02-05T01:56:49.041Z",
+          "updatedAt": "2026-02-05T01:56:49.041Z"
         }
       ]
     }
