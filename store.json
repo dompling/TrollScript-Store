@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-02-05T01:56:49.043Z",
+  "lastUpdated": "2026-02-05T08:01:09.225Z",
   "categories": [
     "工具"
   ],
@@ -9,6 +9,19 @@
       "name": "dompling",
       "avatar": "https://avatars.githubusercontent.com/u/23498579?v=4",
       "scripts": [
+        {
+          "id": "Copylog",
+          "name": "Copylog",
+          "description": "唤起 Copylog",
+          "icon": "doc.on.clipboard",
+          "category": "工具",
+          "version": "1.0.0",
+          "downloadUrl": "https://raw.githubusercontent.com/dompling/TrollScript-Store/main/scripts/Copylog.js",
+          "size": 164,
+          "downloads": 0,
+          "createdAt": "2026-02-05T08:01:09.223Z",
+          "updatedAt": "2026-02-05T08:01:09.223Z"
+        },
         {
           "id": "ExpressSMS",
           "name": "ExpressSMS",
@@ -20,7 +33,7 @@
           "size": 3060,
           "downloads": 0,
           "createdAt": "2026-01-13T03:42:54.346Z",
-          "updatedAt": "2026-02-05T01:56:49.041Z"
+          "updatedAt": "2026-02-05T08:01:09.222Z"
         },
         {
           "id": "PerformanceMonitor",
@@ -33,7 +46,7 @@
           "size": 12555,
           "downloads": 0,
           "createdAt": "2026-02-05T01:56:49.041Z",
-          "updatedAt": "2026-02-05T01:56:49.041Z"
+          "updatedAt": "2026-02-05T08:01:09.224Z"
         }
       ]
     }

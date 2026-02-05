@@ -15,6 +15,7 @@
 | 脚本 | 描述 | 版本 | 文档 |
 |------|------|------|------|
 | **ExpressSMS** | 提取快递短信取件码 | `1.0.2` | [📖](./message/README.md) |
+| **Copylog** | 唤起 Copylog | `1.0.0` | [📖](./scripts/README.md) |
 | **PerformanceMonitor** | 实时性能监控 HUD | `1.0.0` | [📖](./scripts/README.md) |
 <!-- SCRIPTS_END -->
 
