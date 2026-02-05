@@ -2,7 +2,7 @@
  id: ExpressSMS
  name: ExpressSMS
  description: 提取快递短信取件码
- icon: terminal
+ icon: message
  category: 工具
  version: 1.0.2
  */
