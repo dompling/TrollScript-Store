@@ -4,7 +4,7 @@ name: PerformanceMonitor
 description: 实时性能监控 HUD
 icon: terminal
 category: 工具
-version: 1.0.0
+version: 1.0.1
  */
 
 // ============ 配置 ============
