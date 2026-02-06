@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-02-05T08:20:57.130Z",
+  "lastUpdated": "2026-02-06T01:06:24.178Z",
   "categories": [
     "工具"
   ],
@@ -20,7 +20,7 @@
           "size": 164,
           "downloads": 0,
           "createdAt": "2026-02-05T08:01:09.223Z",
-          "updatedAt": "2026-02-05T08:20:57.128Z"
+          "updatedAt": "2026-02-06T01:06:24.176Z"
         },
         {
           "id": "ExpressSMS",
@@ -33,7 +33,7 @@
           "size": 3059,
           "downloads": 0,
           "createdAt": "2026-01-13T03:42:54.346Z",
-          "updatedAt": "2026-02-05T08:20:57.127Z"
+          "updatedAt": "2026-02-06T01:06:24.176Z"
         },
         {
           "id": "PerformanceMonitor",
@@ -43,10 +43,10 @@
           "category": "工具",
           "version": "1.0.0",
           "downloadUrl": "https://raw.githubusercontent.com/dompling/TrollScript-Store/main/scripts/PerformanceMonitor.js",
-          "size": 12555,
+          "size": 12556,
           "downloads": 0,
           "createdAt": "2026-02-05T01:56:49.041Z",
-          "updatedAt": "2026-02-05T08:20:57.128Z"
+          "updatedAt": "2026-02-06T01:06:24.177Z"
         }
       ]
     }
