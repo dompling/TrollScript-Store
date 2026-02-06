@@ -15,7 +15,7 @@ const CONFIG = {
     windowHeight: 320,                  // 窗口高度
     position: { x: 20, y: 100 },        // 窗口位置
     colors: {
-        background: '#00000',
+        background: '#000000',
         title: '#00FF88',
         label: '#AAAAAA',
         value: '#FFFFFF',
