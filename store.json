@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-02-06T01:06:24.178Z",
+  "lastUpdated": "2026-02-06T02:13:45.700Z",
   "categories": [
     "工具"
   ],
@@ -20,7 +20,7 @@
           "size": 164,
           "downloads": 0,
           "createdAt": "2026-02-05T08:01:09.223Z",
-          "updatedAt": "2026-02-06T01:06:24.176Z"
+          "updatedAt": "2026-02-06T02:13:45.698Z"
         },
         {
           "id": "ExpressSMS",
@@ -33,7 +33,7 @@
           "size": 3059,
           "downloads": 0,
           "createdAt": "2026-01-13T03:42:54.346Z",
-          "updatedAt": "2026-02-06T01:06:24.176Z"
+          "updatedAt": "2026-02-06T02:13:45.697Z"
         },
         {
           "id": "PerformanceMonitor",
@@ -41,12 +41,12 @@
           "description": "实时性能监控 HUD",
           "icon": "terminal",
           "category": "工具",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "downloadUrl": "https://raw.githubusercontent.com/dompling/TrollScript-Store/main/scripts/PerformanceMonitor.js",
           "size": 12556,
           "downloads": 0,
           "createdAt": "2026-02-05T01:56:49.041Z",
-          "updatedAt": "2026-02-06T01:06:24.177Z"
+          "updatedAt": "2026-02-06T02:13:45.698Z"
         }
       ]
     }

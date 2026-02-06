@@ -7,7 +7,7 @@
 | 脚本 | 描述 | 版本 | 分类 |
 |------|------|------|------|
 | [Copylog](./Copylog.js) | 唤起 Copylog | `1.0.0` | 工具 |
-| [PerformanceMonitor](./PerformanceMonitor.js) | 实时性能监控 HUD | `1.0.0` | 工具 |
+| [PerformanceMonitor](./PerformanceMonitor.js) | 实时性能监控 HUD | `1.0.1` | 工具 |
 
 ---
 
