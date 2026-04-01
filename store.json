@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-02-06T02:13:45.700Z",
+  "lastUpdated": "2026-04-01T08:14:30.118Z",
   "categories": [
     "工具"
   ],
@@ -20,7 +20,7 @@
           "size": 164,
           "downloads": 0,
           "createdAt": "2026-02-05T08:01:09.223Z",
-          "updatedAt": "2026-02-06T02:13:45.698Z"
+          "updatedAt": "2026-04-01T08:14:30.116Z"
         },
         {
           "id": "ExpressSMS",
@@ -28,12 +28,12 @@
           "description": "提取快递短信取件码",
           "icon": "message",
           "category": "工具",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "downloadUrl": "https://raw.githubusercontent.com/dompling/TrollScript-Store/main/message/sms.js",
-          "size": 3059,
+          "size": 4847,
           "downloads": 0,
           "createdAt": "2026-01-13T03:42:54.346Z",
-          "updatedAt": "2026-02-06T02:13:45.697Z"
+          "updatedAt": "2026-04-01T08:14:30.115Z"
         },
         {
           "id": "PerformanceMonitor",
@@ -46,7 +46,7 @@
           "size": 12556,
           "downloads": 0,
           "createdAt": "2026-02-05T01:56:49.041Z",
-          "updatedAt": "2026-02-06T02:13:45.698Z"
+          "updatedAt": "2026-04-01T08:14:30.117Z"
         }
       ]
     }
